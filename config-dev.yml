@@ -1,2 +1,2 @@
 config: 
-  info: 这是config-dev配置，当前版本为1
+  info: config-dev,version:1

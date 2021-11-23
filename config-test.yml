@@ -1,2 +1,2 @@
 config: 
-  info: 这是config-test配置，当前版本为1
+  info: config-test,version:1
